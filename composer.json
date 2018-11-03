@@ -1,0 +1,19 @@
+{
+    "name": "evrey/images",
+    "description": "HW-2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yarik",
+            "email": "eyarij@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Evrey\\Images\\": "src"
+        }
+    },
+    "require": {
+        "php" : "^7.2"
+    }
+}
